@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="button_submit">Submit</string>
+    <string name="second_activity">This is the second activity</string>
+    <string name="editText_hint">Enter a message</string>
+
+</resources>

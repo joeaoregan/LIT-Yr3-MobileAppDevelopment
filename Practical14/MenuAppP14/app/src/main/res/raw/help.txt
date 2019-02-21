@@ -1,0 +1,40 @@
+This is the help text for the Menu Activity app. It demonstrates the use of raw file resources.
+
+paragraph 1
+paragraph 2
+paragraph 3
+paragraph 4
+paragraph 5
+paragraph 6
+paragraph 7
+paragraph 8
+paragraph 9
+paragraph 10
+paragraph 11
+paragraph 12
+paragraph 13
+paragraph 14
+paragraph 15
+paragraph 16
+paragraph 17
+paragraph 18
+paragraph 19
+paragraph 20
+paragraph 21
+paragraph 22
+paragraph 23
+paragraph 24
+paragraph 25
+paragraph 26
+paragraph 27
+paragraph 28
+paragraph 29
+paragraph 30
+paragraph 31
+paragraph 32
+
+for more info go to http://wwwl.lit.ie
+
+email: k00203642@student.lit.ie
+
+phone: +35350428261

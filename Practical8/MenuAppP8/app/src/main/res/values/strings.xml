@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MenuApp</string>
+    <string name="splash">Welcome to the menu app</string>
+    <string name="version">Version 1.0 2013</string>
+    <string name="button">Click to go to Menu screen</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="default_value">List Item</string>string>
+    <string name="menu_item_play">Play Game</string>
+    <string name="menu_item_scores">Scores</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_item_help">Help</string>
+    <string name="play_game">Play Game</string>
+    <string name="help">Help</string>
+    <string name="scores">Scores</string>
+    <string name="settings">Settings</string>
+
+</resources>
