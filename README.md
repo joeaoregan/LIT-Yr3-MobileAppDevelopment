@@ -5,6 +5,7 @@
 
 ![Topics](https://img.shields.io/badge/Topics-Android-orange)
 ![Topics](https://img.shields.io/badge/Topics-Mobile%20App%20Development-red)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-9370DB?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-Kotlin%2FJava-lightblue)
 
 
